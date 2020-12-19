@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <!--Bura font awasome linkleri  qoymaliyik asagdaki <i> </i> ucun -->
+    </head>
+    <body>
+        <!--========= Header start ==========-->
+        <!--=================================-->
+        <header role="banner">
+            <!--========= DIV TOP START =============-->
+            <!--=====================================-->
+            <div>
+                <!-- I (icon) teq linkleri  start-->
+                <!--=============================-->
+                <div role="navigation">
+                    <ul>
+                        <li><a href="#" name=''><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="#" name=''><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#" name=''><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#" name=''><i class="fab fa-pexels"></i></a></li>
+                    </ul>
+                </div>
+                <!-- I (icon) teq linkleri  end-->
+                <!--===========================-->
+
+                <!--====== LOGO START =======-->
+                <!--=========================-->
+                <div>
+                    <h1>Homepage</h1>
+                </div>
+                <!--====== LOGO END ======-->
+                <!--======================-->
+
+                <!--====== AXTARIS START =======-->
+                <!--============================-->
+                <div>
+                  <span>SEARCH</span>
+                  <span><i class="fab fa-search"></i></span>
+                </div>
+                <!--====== AXTARIS END =======-->
+                <!--============================-->
+            </div>
+            <!--========= DIV TOP START =============-->
+            <!--=====================================-->
+            <div class="Orta xett"></div>
+            <!--========= DIV BOTTOM START =============-->
+            <!--========================================-->
+             <div>
+                 <!-- MENYU START-->
+                 <!--============-->
+                 <nav role="navigation">
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Categories</a></li>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">Style</a></li>
+                        <li><a href="">About</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+                 </nav>
+                 <!-- MENYU START-->
+                 <!--============-->
+             </div>
+            <!--========= DIV BOTTOM END =============-->
+            <!--======================================-->
+        </header>
+        <!--========= Header end ==========-->
+        <!--===============================-->
+
+        <!-- ========== MAIN start =========== -->
+        <!-- ================================= -->
+        <main>
+            <!--=====CONTACT US START=====-->
+            <!--==========================-->
+           <section>
+                <div class="slite">
+                       <!--=== ESAS SLAYT START ===-->
+                       <!--=== ================ ===-->
+                       <div>
+                       <figure>
+                           <img src="" alt="">
+                       </figure>
+                       <!-- Sekil uzerinde yazi -->
+                       <span>Music</span>
+                       <figcaption>
+                        What Your Music Preference Says About You and Your Personality.
+                       </figcaption>
+                       <!--=== SLAYT PROFIL  START ===-->
+                       <!--=== =================== ===-->
+                       <div>
+                           <figure>
+                               <img src="" alt="">
+                           </figure>
+                           <figcaption>
+                               John Done
+                           </figcaption>
+                           <span>TIME : : : </span>
+                       </div>
+                       <!--=== SLAYT PROFIL END ===-->
+                       <!--=== ================ ===-->
+                       </div>
+                       <!--=== ESAS SLAYT END ===-->
+                       <!--=== ============== ===-->
+
+                       <!--=== (2) SLAYT START ===-->
+                       <!--=== =============== ===-->
+                       <div>
+                       <figure>
+                           <img src="" alt="">
+                       </figure>
+                       <!-- Sekil uzerinde yazi -->
+                       <span>MANAGEMENT</span>
+                       <figcaption>
+                        The Pomodoro Technique Really Works.
+                       </figcaption>
+                       <!--=== SLAYT PROFIL  START ===-->
+                       <!--=== =================== ===-->
+                       <div>
+                           <figure>
+                               <img src="" alt="">
+                           </figure>
+                           <figcaption>
+                               John Done
+                           </figcaption>
+                           <span>TIME : : : </span>
+                       </div>
+                       <!--=== SLAYT PROFIL END ===-->
+                       <!--=== ================ ===-->
+                       </div>
+                       <!--=== (2) SLAYT END ===-->
+                       <!--=== ============== ===-->
+
+                       <!--=== (3) SLAYT START ===-->
+                       <!--=== =============== ===-->
+                       <div>
+                        <figure>
+                            <img src="" alt="">
+                        </figure>
+                        <!-- Sekil uzerinde yazi -->
+                        <span>MANAGEMENT</span>
+                        <figcaption>
+                            Throwback To The Good Old Days.
+                        </figcaption>
+                        <!--=== SLAYT PROFIL  START ===-->
+                        <!--=== =================== ===-->
+                        <div>
+                            <figure>
+                                <img src="" alt="">
+                            </figure>
+                            <figcaption>
+                                John Done
+                            </figcaption>
+                            <span>TIME : : : </span>
+                        </div>
+                        <!--=== SLAYT PROFIL END ===-->
+                        <!--=== ================ ===-->
+                       </div>
+                        <!--=== (3) SLAYT END ===-->
+                        <!--=== ============== ===-->
+                 </div>
+               
+
+           </section>
+            <!--=====CONTACT US END=====-->
+            <!--========================-->
+
+            <!--=====POPULAR POST START=====-->
+            <!--==========================-->
+             <section>
+               <!-- 
+                   ESAS QEYD
+                   ____________
+
+                   Bu hissede melumat bazasindan gelen melumatlar melumatin olculerine gore 4 ferqli div icersinde tekrar edir
+               -->
+                 
+               <!-- ==== BIRINCI START ==== -->
+               <!-- ==== ============= ==== -->
+                 <div>
+                     <figure>
+                         <img src="" alt="">
+                     </figure>
+                     <!--=== SEKIL ALTINDA MELUMATLAR START ===-->
+                     <!--=== ============================== ===-->
+                     <div>
+                       <span>December 15, 2017 <span>
+                       <h1>Just a Standard Format Post.</h1>
+                       <p>
+                        Lorem ipsum Sed eiusmod esse aliqua sed 
+                        incididunt aliqua incididunt mollit id et sit proident dolor nulla sed
+                         commodo est ad minim elit reprehenderit nisi officia aute incididunt 
+                         velit sint in aliqua...
+                       </p>
+                       <!-- Linkler-->    <!--  Bu hissede admin istediyi qeder link elave edir deye ferli sayda olur -->
+                       <a href="">Desing</a>
+                       <a href="">Photography</a>
+                     </div>
+                     <!--=== SEKIL ALTINDA MELUMATLAR END ===-->
+                     <!--=== ============================ ===-->
+                 </div>
+               <!-- ==== BIRINCI END ==== -->
+               <!-- ==== =========== ==== -->
+
+               <!-- ==== IKINCI START ==== -->
+               <!-- ==== ============ ==== -->
+                <div>
+                <figure>
+                    <img src="" alt="">
+                </figure>
+                <!--=== SEKIL ALTINDA MELUMATLAR START ===-->
+                <!--=== ============================== ===-->
+                <div>
+                  <span>December 15, 2017 <span>
+                  <h1>Just a Standard Format Post.</h1>
+                  <p>
+                   Lorem ipsum Sed eiusmod esse aliqua sed 
+                   incididunt aliqua incididunt mollit id et sit proident dolor nulla sed
+                    commodo est ad minim elit reprehenderit nisi officia aute incididunt 
+                    velit sint in aliqua...
+                  </p>
+                  <!-- Linkler-->    <!--  Bu hissede admin istediyi qeder link elave edir deye ferli sayda olur -->
+                  <a href="">Desing</a>
+                  <a href="">Photography</a>
+                </div>
+                <!--=== SEKIL ALTINDA MELUMATLAR END ===-->
+                <!--=== ============================ ===-->
+                </div>
+               <!-- ==== IKINCI END ==== -->
+               <!-- ==== ========== ==== -->
+
+               <!-- ==== uCUNCU START ==== -->
+               <!-- ==== ============ ==== -->
+                <div>
+                <figure>
+                    <img src="" alt="">
+                </figure>
+                <!--=== SEKIL ALTINDA MELUMATLAR START ===-->
+                <!--=== ============================== ===-->
+                <div>
+                  <span>December 15, 2017 <span>
+                  <h1>Just a Standard Format Post.</h1>
+                  <p>
+                   Lorem ipsum Sed eiusmod esse aliqua sed 
+                   incididunt aliqua incididunt mollit id et sit proident dolor nulla sed
+                    commodo est ad minim elit reprehenderit nisi officia aute incididunt 
+                    velit sint in aliqua...
+                  </p>
+                  <!-- Linkler-->    <!--  Bu hissede admin istediyi qeder link elave edir deye ferli sayda olur -->
+                  <a href="">Desing</a>
+                  <a href="">Photography</a>
+                </div>
+                <!--=== SEKIL ALTINDA MELUMATLAR END ===-->
+                <!--=== ============================ ===-->
+                </div>
+               <!-- ==== UCUNCU END ==== -->
+               <!-- ==== ========== ==== -->
+        </section>
+            <!--=====POPULAR POST START=====-->
+            <!--==========================-->
+        </main>
+        <!-- ========== MAIN start =========== -->
+        <!-- ================================= -->
+
+        <!--====== FOOTER START ======-->
+        <!--==========================-->
+        <div>
+            <!-- ======= QUICK LINK START  ====== -->
+            <!-- ================================ -->
+            <div>
+                  <h1>QUICK LINK</h1>
+                  <div class="orta_xett"></div>
+                  <!-- FOOTER MENYU START-->
+                  <!--===================-->
+                  <nav role="navigation">
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">Styles</a></li>
+                        <li><a href="">About</a></li>
+                        <li><a href="">Contact</a></li>
+                        <li><a href="">Privacy Policy</a></li>
+                    </ul>
+                  </nav>
+                  <!-- FOOTER MENYU END -->
+                  <!--==================-->
+            </div>
+            <!-- ======= QUICK LINKS END   ====== -->
+            <!--==================================-->
+
+            <!-- ======= ARCHIVES START  ====== -->
+            <!-- ============================== -->
+            <div>
+                 <h1>ARCHIVES</h1>
+                 <div class="orta_xett"></div>
+                  <!-- FOOTER(2) MENYU START-->
+                  <!--======================-->
+                  <nav role="navigation">
+                   <ul>
+                       <li><a href="">January 2018</a></li>
+                       <li><a href="">December 2017</a></li>
+                       <li><a href="">November 2017</a></li>
+                       <li><a href="">October 2017</a></li>
+                       <li><a href="">September 2017</a></li>
+                       <li><a href="">August 2017</a></li>
+                   </ul>
+                 </nav>
+                  <!-- FOOTER(2) MENYU END-->
+                  <!--====================-->
+                </div>
+            <!-- ======= ARCHIVES END  ====== -->
+            <!-- ============================ -->
+
+            <!-- ======= SOCIAL START  ====== -->
+            <!-- ============================ -->
+            <div>
+               <h1>SOCIAL</h1>
+               <div class="orta_xett"></div>
+                  <!-- FOOTER(3) MENYU START-->
+                  <!--======================-->
+               <ul>
+                   <li><a href="">Facebook</a></li>
+                   <li><a href="">Inistagram</a></li>
+                   <li><a href="">Twitter</a></li>
+                   <li><a href="">Pinterest</a></li>
+                   <li><a href="">Google+</a></li>
+                   <li><a href="">Linkedin</a></li>
+               </ul>
+                  <!-- FOOTER(3) MENYU END -->
+                  <!--=====================-->
+
+            </div>
+            <!-- ======= SOCIAL END  ====== -->
+            <!-- ========================== -->
+
+            <!-- ======= OUR NEWSLETTER START ====== -->
+            <!-- =================================== -->
+            <div>
+              <h1>OUR NEWSLETTER</h1>
+              <div class="orta_xett"></div>
+              <p>
+                Sit vel delectus amet officiis repudiandae est voluptatem. 
+                Tempora maxime provident nisi et fuga et enim exercitationem ipsam. 
+                Culpa consequatur occaecati.
+              </p>
+              <!--====== AXTARIS START======-->
+              <!--==========================-->
+              <label for=""><i class="fab email"></i></label>
+              <input type="text" name="" placeholder="Email Adress">
+              <button >SEND</button>
+              <!--====== AXTARIS END======-->
+              <!--========================-->
+            </div>
+            <!-- ======= OUR NEWSLETTER END  ====== -->
+            <!-- ================================== -->
+
+            <!-- ======= ABOUT START  ====== -->
+            <!-- =========================== -->
+            <div>
+               <span>&copy Copyright Philosophy 2018</span>
+               <span>| Site Template by Colorlib</span>
+            </div>
+            <!-- ======= ABOUT END  ====== -->
+            <!-- ========================= -->
+
+        </div>
+        <!--===== FOOTER END =====-->
+        <!--======================-->
+
+
+    </body>
+</html>
